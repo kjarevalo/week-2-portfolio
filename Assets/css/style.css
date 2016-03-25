@@ -1,0 +1,111 @@
+body {
+	background: url("../images/arab_tile.png");
+}
+* {
+	box-sizing: border-box;
+}
+/*gene</divral*/
+
+.container {
+	width: 100%;
+	max-width: 960px;
+}
+header {
+	width: 960px;
+}
+h3 {
+	font-weight: bold;
+	font-size: 20px;
+}
+h2 {
+	font-weight: bold;
+	font-size: 25px;
+}
+img {
+	height: 160px;
+	width: 160px;
+}
+
+footer {
+	height: 50px;
+	width: 100%;
+	border-top: 5px solid #4aaaa5;
+	background-color: #666666;
+	color: white;
+	font-size: 8pt;
+	padding-top: 30px;
+}
+
+#about_me {
+	background-color: white;
+	width: 500px;
+}
+/*#content_section {
+
+	margin: 0 auto;
+	width: 960px;
+	height:500px;
+	padding-top: 15px;
+}
+
+#name {
+	height: 60px;
+	width: 180px;
+	line-height: 60px;
+	background-color: #4aaaa5;
+	color: white;
+	font-family: arial;
+	vertical-align: middle;
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: 50px;
+	margin-right: 256px;
+	text-align: center;
+	display: inline-block;
+}
+
+#links {
+	float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+#links a {
+	padding-bottom: 20px;
+	padding: 10px;
+	vertical-align: middle;
+	background-color: #ffffff;
+	color: #777777;
+	font-family: #cccccc;
+	font-size: 15pt;
+	text-decoration: none;
+}
+
+
+#about_me {
+	text-align: left;
+	width: 450px;
+	margin-left: 50px;
+	display: inline-block;
+	
+}
+
+#pic {
+	float: left;
+}
+
+#connect_with_me {
+	margin-top: 58px;
+    float: right;
+    margin-right: 50px;
+
+}
+
+#connect_with_me img {
+	height: 50px;
+	width: 50px;
+}
+
+#connect_with_me  {
+	background-color: red;
+}*/
